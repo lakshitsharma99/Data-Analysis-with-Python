@@ -1,6 +1,6 @@
 ## Data Analysis with Python
 
-Exploratory Data Analysis using Python. Check out the analysis in <a href="https://github.com/lakshitsharma99/Data-Analysis-with-Python/blob/main/Data%20Analysis%20with%20Python.ipynb">Jupyter Notebook</a>
+Exploratory Data Analysis using Python. Check out the analysis in <a href="https://github.com/lakshitsharma99/Data-Analysis-with-Python/blob/main/Data%20Analysis%20with%20Python.ipynb">Jupyter Notebook</a> (Best View in Desktop Mode)
 
 
 ## Modules covered:
